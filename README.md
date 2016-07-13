@@ -1,2 +1,3 @@
-# _dev_thealigo
-thealigo development test
+## 더 알리고 개발 ##
+
+더 알리고를 개발하기 위한 테스트 프로그램들을 작성한다. 작성언어는 c#, php를 사용한다. 
